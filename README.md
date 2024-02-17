@@ -1,4 +1,4 @@
-1. Overview of Superstore Sales Dataset:
+### 1. Overview of Superstore Sales Dataset:
 * Total number of orders
 * Total sales
 * Average profit
